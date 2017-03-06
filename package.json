@@ -1,0 +1,19 @@
+{
+  "name": "pinterest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pin.js",
+  "dependencies": {
+    "node-pinterest": "^0.0.3",
+    "pinterest-api": "^1.1.4"
+  },
+  "devDependencies": {
+    "node-pinterest": "0.0.3",
+    "pinterest-api": "^1.1.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ethan Thomas",
+  "license": "ISC"
+}
